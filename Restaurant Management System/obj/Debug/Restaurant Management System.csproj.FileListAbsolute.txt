@@ -1,0 +1,81 @@
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\obj\Debug\Restaurant Management System.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\bin\Debug\Guna.UI2.DLL
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CopyComplete
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\obj\Debug\Restaurant_Management_System.Login.resources
+C:\Users\HOME\Desktop\Burger\Restaurant Management System\obj\Debug\Restaurant_Management_System.Administrator.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\bin\Debug\Guna.UI2.DLL
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Administrator.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Login.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CopyComplete
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_Dashboard.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_AddUser.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_ViewUser.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_Profile.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Worker.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_Dashboard.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_AddFood.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_ViewFood.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_UpdateFood.resources
+C:\Users\HOME\Desktop\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_Billing.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Administrator.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_AddUser.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_Dashboard.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_Profile.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_ViewUser.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Login.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Worker.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_AddFood.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_Billing.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_Dashboard.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_UpdateFood.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_ViewFood.resources
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CopyComplete
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\HOME\Desktop\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Administrator.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_AddUser.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_Dashboard.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_Profile.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.AdministratorUC.UC_ViewUser.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Login.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.Worker.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_AddFood.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_Billing.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_Dashboard.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_UpdateFood.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant_Management_System.WorkerUC.UC_W_ViewFood.resources
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CopyComplete
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\bin\Debug\Guna.UI2.dll
+D:\Restaurant Inventory Management System\Project\Burger1\Burger1\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.AssemblyReference.cache
